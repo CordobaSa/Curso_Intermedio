@@ -1,5 +1,5 @@
 def run():
-#    squares = []
+    #    squares = []
 #    for i in range(1,101):
 #        if i % 3 != 0:          
 #            squares.append(i**2)
@@ -65,6 +65,7 @@ def run():
 
     for key, value in super_dict.items():
         print(key, "-", value)
+
 
 if __name__ == "__main__":
     run()
